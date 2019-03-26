@@ -21,10 +21,6 @@
 	
 	window.isios=window.isios||function(){
 		return false;
-	}			
-
-	window.getvipdisp=window.getvipdisp||function(){
-		return false;
 	}
 	
 	window.fileopener=window.fileopener||function(url){
@@ -364,8 +360,8 @@ try{
 try{
 	if((ExView.versionCode=="201804290"||ExView.versionCode=="201804291")&&localStorage.ExView_LoginUser&&!isvip&&isandroid()){
 		alert("\u6b64\u7248\u672c\u65e0\u6cd5\u4f7f\u7528\uff0c\u8bf7\u5347\u7ea7\u6700\u65b0\u7248\u672c\uff0c\u7136\u540e\u91cd\u65b0\u6dfb\u52a0\u6765\u6e90\uff01");
-		getvipdisp=function(){return ""}
 		exviewplugin.clear();
+		navigator.app.exitApp();
 	}
 }catch(e){
 
