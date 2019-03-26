@@ -126,547 +126,539 @@
         var rulePlugins=
         [
             {
-                "name": "腾讯漫画（正版）",
+                "name": "\u817e\u8baf\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "网易漫画（正版）",
+                "name": "\u7f51\u6613\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "漫客栈（正版）",
+                "name": "\u6f2b\u5ba2\u6808\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "漫客栈（APP）",
+                "name": "\u6f2b\u5ba2\u6808\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "布卡漫画（正版）",
+                "name": "\u5e03\u5361\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "知音漫客（正版）",
+                "name": "\u77e5\u97f3\u6f2b\u5ba2\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "知音漫客（APP）",
+                "name": "\u77e5\u97f3\u6f2b\u5ba2\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "有妖气（正版）",
+                "name": "\u6709\u5996\u6c14\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "有妖气（APP）",
+                "name": "\u6709\u5996\u6c14\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "快看漫画（正版）",
+                "name": "\u5feb\u770b\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "快看漫画（APP）",
+                "name": "\u5feb\u770b\u6f2b\u753b\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "爱飒漫画（正版）",
+                "name": "\u7231\u98d2\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "爱飒漫画（PC）",
+                "name": "\u7231\u98d2\u6f2b\u753b\uff08PC\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "酷漫网（正版）",
+                "name": "\u9177\u6f2b\u7f51\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "大角虫（正版）",
+                "name": "\u5927\u89d2\u866b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "漫漫漫画（正版）",
+                "name": "\u6f2b\u6f2b\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "麦萌漫画（正版）",
+                "name": "\u9ea6\u840c\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "微博动漫（正版）",
+                "name": "\u5fae\u535a\u52a8\u6f2b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "汤圆漫画（正版）",
+                "name": "\u6c64\u5706\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "国漫OACG（正版）",
+                "name": "\u56fd\u6f2bOACG\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "掌阅漫画（APP）",
+                "name": "\u638c\u9605\u6f2b\u753b\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "掌阅漫画（正版）",
+                "name": "\u638c\u9605\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "奇热漫画（正版）",
+                "name": "\u5947\u70ed\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "爱奇艺漫画（正版）",
+                "name": "\u7231\u5947\u827a\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "动漫之家",
+                "name": "\u52a8\u6f2b\u4e4b\u5bb6\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "动漫之家（PC）",
+                "name": "\u52a8\u6f2b\u4e4b\u5bb6v1\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "动漫之家（APP）",
+                "name": "\u52a8\u6f2b\u4e4b\u5bb6v2\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "动漫之家v1（APP）",
+                "name": "\u52a8\u6f2b\u4e4b\u5bb6v3\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "动漫之家v2（APP）",
+                "name": "\u4eb2\u4eb2\u6f2b\u753b\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "动漫之家v3（APP）",
+                "name": "\u55b5\u9605\u6f2b\u753b\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "亲亲漫画（APP）",
+                "name": "\u6251\u98de\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "喵阅漫画（APP）",
+                "name": "\u571f\u8c6a\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "扑飞漫画",
+                "name": "\u5361\u63a8\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "土豪漫画",
+                "name": "733\u52a8\u6f2b",
                 "version": "0.0.1"
             },
             {
-                "name": "卡推漫画",
+                "name": "\u53e4\u98ce\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "733动漫",
+                "name": "\u53e4\u98ce\u6f2b\u753b\uff08PC\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "古风漫画",
+                "name": "\u6f2b\u753b1234",
                 "version": "0.0.1"
             },
             {
-                "name": "古风漫画（PC）",
+                "name": "\u6f2b\u753b160",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画1234",
+                "name": "57\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画160",
+                "name": "\u829d\u58eb\u8c6a\u516b",
                 "version": "0.0.1"
             },
             {
-                "name": "57漫画",
+                "name": "\u5854\u591a\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "芝士豪八",
+                "name": "\u52a8\u6f2b\u5c4b",
                 "version": "0.0.1"
             },
             {
-                "name": "塔多漫画",
+                "name": "\u6781\u901f\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "动漫屋",
+                "name": "\u6f2b\u753b\u4eba",
                 "version": "0.0.1"
             },
             {
-                "name": "极速漫画",
+                "name": "\u65b0\u65b0\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画人",
+                "name": "\u549a\u6f2b",
                 "version": "0.0.1"
             },
             {
-                "name": "新新漫画",
+                "name": "\u549a\u6f2b\uff08PC\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "咚漫",
+                "name": "\u975e\u5e38\u7231\u6f2b",
                 "version": "0.0.1"
             },
             {
-                "name": "咚漫（PC）",
+                "name": "\u56fd\u6f2b\u5427",
                 "version": "0.0.1"
             },
             {
-                "name": "非常爱漫",
+                "name": "\u6f2b\u753b\u591a",
                 "version": "0.0.1"
             },
             {
-                "name": "国漫吧",
+                "name": "\u70b9\u62c9\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画多",
+                "name": "CC\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "点拉漫画",
+                "name": "CC\u6f2b\u753b\uff08PC\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "CC漫画",
+                "name": "X18\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "CC漫画（PC）",
+                "name": "\u4e8c\u4e5d\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "X18漫画",
+                "name": "\u4e03\u4e03\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "二九漫画",
+                "name": "360\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "七七漫画",
+                "name": "\u6f2b\u753b123",
                 "version": "0.0.1"
             },
             {
-                "name": "360漫画",
+                "name": "36\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画123",
+                "name": "\u4e59\u5973\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "36漫画",
+                "name": "\u8150\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "乙女漫画",
+                "name": "\u8150\u6f2b\u753b\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "腐漫画",
+                "name": "\u6f2b\u753b\u5929\u5802",
                 "version": "0.0.1"
             },
             {
-                "name": "腐漫画（APP）",
+                "name": "\u6f2b\u753b\u5427",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画天堂",
+                "name": "\u6f2b\u753b\u6dd8",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画吧",
+                "name": "\u98de\u5362\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画淘",
+                "name": "\u5927\u53e4\u6f2b\u753b\uff08PC\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "飞卢漫画",
+                "name": "\u5927\u53e4\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "大古漫画（PC）",
+                "name": "\u7231\u770b\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "大古漫画",
+                "name": "\u5154\u5154\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "爱看漫画",
+                "name": "\u7231\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "兔兔漫画",
+                "name": "\u4e00\u6f2b\u7f51",
                 "version": "0.0.1"
             },
             {
-                "name": "爱漫画",
+                "name": "\u6211\u8981\u5c0f\u5c0f\u7f51",
                 "version": "0.0.1"
             },
             {
-                "name": "一漫网",
+                "name": "\u6211\u8981\u53bb\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "我要小小网",
+                "name": "\u80d6\u6b21\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "我要去漫画",
+                "name": "\u6f2b\u672c",
                 "version": "0.0.1"
             },
             {
-                "name": "胖次漫画",
+                "name": "\u767e\u5e74\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫本",
+                "name": "\u767e\u5e74\u6f2b\u753b\uff08PC\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "百年漫画",
+                "name": "\u5439\u96ea\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "百年漫画（PC）",
+                "name": "97\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "吹雪漫画",
+                "name": "97\u6f2b\u753b\uff08PC\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "97漫画",
+                "name": "\u8d85\u901f\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "97漫画（PC）",
+                "name": "72\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "超速漫画",
+                "name": "i\u5c1a\u6f2b",
                 "version": "0.0.1"
             },
             {
-                "name": "72漫画",
+                "name": "YYLS\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "i尚漫",
+                "name": "\u6f2b\u753b\u8ff7",
                 "version": "0.0.1"
             },
             {
-                "name": "YYLS漫画",
+                "name": "zero\u642c\u8fd0\u7f51",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画迷",
+                "name": "777\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "zero搬运网",
+                "name": "517\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "777漫画",
+                "name": "ONE\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "517漫画",
+                "name": "\u4e00\u76f4\u770b",
                 "version": "0.0.1"
             },
             {
-                "name": "ONE漫画",
+                "name": "\u4e00\u76f4\u770b\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "一直看",
+                "name": "\u6c57\u6c57\u9177\u6f2b",
                 "version": "0.0.1"
             },
             {
-                "name": "一直看（APP）",
+                "name": "\u6c57\u6c57\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "汗汗酷漫",
+                "name": "\u864e\u864e\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "汗汗漫画",
+                "name": "99770\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "虎虎漫画",
+                "name": "\u6f2b\u753bDB",
                 "version": "0.0.1"
             },
             {
-                "name": "99770漫画",
+                "name": "\u5974\u5974\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画DB",
+                "name": "\u79c0\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "奴奴漫画",
+                "name": "\u76ae\u76ae\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "秀漫画",
+                "name": "KuKu\u52a8\u6f2b",
                 "version": "0.0.1"
             },
             {
-                "name": "皮皮漫画",
+                "name": "\u975e\u51e1\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "KuKu动漫",
+                "name": "\u53cb\u7ed8\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "非凡漫画",
+                "name": "\u6f2b\u753b\u53f0",
                 "version": "0.0.1"
             },
             {
-                "name": "友绘漫画",
+                "name": "\u795e\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画台",
+                "name": "\u52a8\u6f2b\u72c2",
                 "version": "0.0.1"
             },
             {
-                "name": "神漫画",
+                "name": "\u4e8c\u6b21\u5143\u52a8\u6f2b",
                 "version": "0.0.1"
             },
             {
-                "name": "动漫狂",
+                "name": "98\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "二次元动漫",
+                "name": "\u6ef4\u6ef4\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "98漫画",
+                "name": "\u6ef4\u6ef4\u6f2b\u753b\uff08PC\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "滴滴漫画",
+                "name": "\u6f2b\u753b\u697c",
                 "version": "0.0.1"
             },
             {
-                "name": "滴滴漫画（PC）",
+                "name": "522\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画楼",
+                "name": "50\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "522漫画",
+                "name": "\u597d\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "50漫画",
+                "name": "\u5446\u54e5\u54e5",
                 "version": "0.0.1"
             },
             {
-                "name": "好漫画",
+                "name": "\u6765\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "呆哥哥",
+                "name": "\u9b3c\u841d\u8389\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "来漫画",
+                "name": "\u50f5\u5c38\u738b\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "鬼萝莉漫画",
+                "name": "\u6f2b\u753b\u67dc",
                 "version": "0.0.1"
             },
             {
-                "name": "僵尸王漫画",
+                "name": "\u53ef\u53ef\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画柜",
+                "name": "\u54e6\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "可可漫画",
+                "name": "\u54c8\u54e9\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "哦漫画",
+                "name": "\u767d\u9f99\u541b\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "哈哩漫画",
+                "name": "118\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "白龙君漫画",
+                "name": "\u54c7\u560e\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "118漫画",
+                "name": "999\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "哇嘎漫画",
+                "name": "\u6f2b\u753b\u5927\u5168",
                 "version": "0.0.1"
             },
             {
-                "name": "999漫画",
+                "name": "96\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画大全",
+                "name": "\u6f2b\u753b\u725b",
                 "version": "0.0.1"
             },
             {
-                "name": "96漫画",
+                "name": "52\u770b\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "漫画牛",
+                "name": "365\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "52看漫画",
+                "name": "\u4e50\u4e50\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "365漫画",
+                "name": "\u98de\u98de\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "乐乐漫画",
-                "version": "0.0.1"
-            },
-            {
-                "name": "飞飞漫画",
-                "version": "0.0.1"
-            },
-            {
-                "name": "嘀嘀嘟嘟",
+                "name": "\u5600\u5600\u561f\u561f",
                 "version": "0.0.1"
             },
             {
@@ -674,15 +666,15 @@
                 "version": "0.0.1"
             },
             {
-                "name": "风之动漫",
+                "name": "\u98ce\u4e4b\u52a8\u6f2b",
                 "version": "0.0.1"
             },
             {
-                "name": "c3yy漫画",
+                "name": "c3yy\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
-                "name": "マンガクロス",
+                "name": "\u30de\u30f3\u30ac\u30af\u30ed\u30b9",
                 "version": "0.0.1"
             },
             {
@@ -694,31 +686,31 @@
                 "version": "0.0.1"
             },
             {
-                "name": "NHentai漫画（H漫）",
+                "name": "NHentai\u6f2b\u753b\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "邪琉璃神社（H漫）",
+                "name": "\u90aa\u7409\u7483\u795e\u793e\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "邪恶道（H漫）",
+                "name": "\u90aa\u6076\u9053\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "邪恶集（H漫）",
+                "name": "\u90aa\u6076\u96c6\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "喵绅士（H漫）",
+                "name": "\u55b5\u7ec5\u58eb\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "177漫画（H漫）",
+                "name": "177\u6f2b\u753b\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
             },
             {
-                "name": "绅士漫画（H漫）",
+                "name": "\u7ec5\u58eb\u6f2b\u753b\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
             }
         ]
