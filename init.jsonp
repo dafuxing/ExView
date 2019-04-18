@@ -142,6 +142,10 @@
                 "version": "0.0.1"
             },
             {
+                "name": "\u817e\u8baf\u6f2b\u753b\uff08\u6b63\u7248\uff09",
+                "version": "0.0.1"
+            },
+            {
                 "name": "\u7f51\u6613\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
@@ -198,6 +202,10 @@
                 "version": "0.0.1"
             },
             {
+                "name": "\u5927\u89d2\u866b\uff08APP\uff09",
+                "version": "0.0.1"
+            },
+            {
                 "name": "\u6f2b\u6f2b\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                 "version": "0.0.1"
             },
@@ -247,6 +255,10 @@
             },
             {
                 "name": "\u52a8\u6f2b\u4e4b\u5bb6v3\uff08APP\uff09",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u8c46\u8150\uff08APP\uff09",
                 "version": "0.0.1"
             },
             {
@@ -436,6 +448,54 @@
             {
                 "name": "\u80d6\u6b21\u6f2b\u753b",
                 "version": "0.0.2"
+            },
+            {
+                "name": "\u5c0f\u767d\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u6f2b\u753bLove",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u661f\u8fb0\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u9876\u901a\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u591c\u7a7a\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u65b0\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u8fde\u73af\u753b\u5c0f\u4eba\u4e66",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u6f2b\u753b\u94fa",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u8349\u8722\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "178\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u597d\u901a\u6f2b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u9ed1\u767d\u6f2b\u8bdd",
+                "version": "0.0.1"
             },
             {
                 "name": "\u6f2b\u672c",
