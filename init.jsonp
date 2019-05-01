@@ -271,10 +271,6 @@
                 "version": "0.0.1"
             },
             {
-                "name": "\u4eb2\u4eb2\u6f2b\u753b\uff08APP\uff09",
-                "version": "0.0.1"
-            },
-            {
                 "name": "\u55b5\u9605\u6f2b\u753b\uff08APP\uff09",
                 "version": "0.0.1"
             },
@@ -460,6 +456,10 @@
             },
             {
                 "name": "\u5c0f\u767d\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u9752\u7a7a\u6f2b\u753b",
                 "version": "0.0.1"
             },
             {
@@ -656,7 +656,7 @@
             },
             {
                 "name": "50\u6f2b\u753b",
-                "version": "0.0.1"
+                "version": "0.0.2"
             },
             {
                 "name": "\u597d\u6f2b\u753b",
@@ -700,7 +700,7 @@
             },
             {
                 "name": "118\u6f2b\u753b",
-                "version": "0.0.1"
+                "version": "0.0.2"
             },
             {
                 "name": "\u54c7\u560e\u6f2b\u753b",
@@ -747,6 +747,22 @@
                 "version": "0.0.1"
             },
             {
+                "name": "666\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "jpm1234\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "67\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "1359\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
                 "name": "ACG456",
                 "version": "0.0.1"
             },
@@ -769,6 +785,22 @@
             {
                 "name": "MyReadingManga",
                 "version": "0.0.2"
+            },
+            {
+                "name": "Mangahere",
+                "version": "0.0.1"
+            },
+            {
+                "name": "Manamoa",
+                "version": "0.0.1"
+            },
+            {
+                "name": "Isekaiscan",
+                "version": "0.0.1"
+            },
+            {
+                "name": "Simply Hentai\uff08H\u6f2b\uff09",
+                "version": "0.0.1"
             },
             {
                 "name": "NHentai\u6f2b\u753b\uff08H\u6f2b\uff09",
@@ -798,8 +830,7 @@
                 "name": "\u7ec5\u58eb\u6f2b\u753b\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
             }
-        ]
-        .filter(function(item){
+        ].filter(function(item){
             return item.name.indexOf('H漫')==-1;
         })
         .map(function(item){
