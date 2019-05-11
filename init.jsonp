@@ -5,7 +5,7 @@
     if(parseInt((ExView||{}).versionCode)<201904140){
         InitJSON({
             "plugins":[],
-            "title":"\u524d\u5f80\u5b98\u7f51(https://www.exview.ml/)\u66f4\u65b0\u6700\u65b0\u7248\uff01<div><iframe xonload='mySession.handleIframeOnloaded(this,1)' onload='this.contentWindow.ExView_Curl=ExView.modules.curl' sandbox='allow-same-origin allow-scripts allow-popups allow-forms' scrolling='no' frameborder='0' src='https://exview.gtool.ml/gad/468_60.html"+'?'+(new Date().getTime())+"' style='margin-left:-16px;width:100vw;height:80px;'></iframe></div>",
+            "title":"\u524d\u5f80\u5b98\u7f51(<a href=\"javascript:fileopener('https://www.exview.ml/','text/html',true);\">https://www.exview.ml/</a>)\u66f4\u65b0\u6700\u65b0\u7248\uff01<div><iframe xonload='mySession.handleIframeOnloaded(this,1)' onload='this.contentWindow.ExView_Curl=ExView.modules.curl' sandbox='allow-same-origin allow-scripts allow-popups allow-forms' scrolling='no' frameborder='0' src='https://exview.gtool.ml/gad/468_60.html"+'?'+(new Date().getTime())+"' style='margin-left:-16px;width:100vw;height:80px;'></iframe></div>",
             "type":"\u62a5\u5e9f\u8f66"
         });
         return;
