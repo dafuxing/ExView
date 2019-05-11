@@ -136,15 +136,19 @@
         [
             {
                 "name": "My176",
-                "version": "0.0.1"
+                "version": "0.0.1",
+                "disabled":"VIP"
             },
             {
                 "name": "\u7231\u8bfe\u7a0b",
-                "version": "0.0.1"
+                "version": "0.0.1",
+                "disabled":"VIP"
             },
             {
                 "name": "\u7b14\u8da3\u5b9d",
-                "version": "0.0.1"
+                "version": "0.0.1",
+                "disabled":"VIP"
+                
             },
             {
                 "name": "\u30ad\u30ea\u30ad\u30ea\u52d5\u753b",
