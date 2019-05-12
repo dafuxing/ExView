@@ -174,6 +174,11 @@
                 "disabled":"VIP"
             },
             {
+                "name": "\u98de\u5362\u5c0f\u8bf4",
+                "version": "0.0.1",
+                "disabled":"VIP"
+            },
+            {
                 "name": "\u7231\u8bfe\u7a0b",
                 "version": "0.0.1",
                 "disabled":"VIP"
