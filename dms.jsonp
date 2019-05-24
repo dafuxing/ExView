@@ -102,8 +102,9 @@ if(!isdesktop()){
 		var newestversion="2.6.0_beta2";
 		var newestversioninfo="2019.05.19 2.6.0_beta2<br>1.\u5f3a\u5316\u4e0b\u8f7d\u5bfc\u51fa\u529f\u80fd<br>2.\u4fee\u590d\u4e00\u4e9b\u5c0f\u95ee\u9898<br>\u5176\u4ed6\u5e73\u53f0\u8bf7\u524d\u5f80\u5b98\u7f51\uff08https://www.exview.ml/\uff09\u4e0b\u8f7d\uff0c\u8bf7\u5206\u4eabExView\u7ed9\u4f60\u7684\u670b\u53cb\uff0c\u611f\u8c22\u652f\u6301\uff0c\u6709\u4f60\u4eec\u652f\u6301ExView\u4f1a\u8d8a\u505a\u8d8a\u597d\uff01";
 		// var updatepath=(iscrosswalk()?'https://raw.githubusercontent.com/ghostgzt/ExView/master/platforms/android/ExViewPlus-separate-release-lastest.apk':'https://raw.githubusercontent.com/ghostgzt/ExView/master/platforms/android/ExView-release-lastest.apk')+('?_='+(new Date()).getTime());
-		var updatepath=(iscrosswalk()?'https://gitee.com/gentle/Datas/raw/master/ExView/platforms/android/ExViewPlus-separate-release-lastest.apk':'https://gitee.com/gentle/Datas/raw/master/ExView/platforms/android/ExView-release-lastest.apk')+('?_='+(new Date()).getTime());
+		// var updatepath=(iscrosswalk()?'https://gitee.com/gentle/Datas/raw/master/ExView/platforms/android/ExViewPlus-separate-release-lastest.apk':'https://gitee.com/gentle/Datas/raw/master/ExView/platforms/android/ExView-release-lastest.apk')+('?_='+(new Date()).getTime());
 		// var updatepath=(iscrosswalk()?'https://www.lanzous.com/i3gejwj':'https://www.lanzous.com/i3gejxa')/* +('?_='+(new Date()).getTime()) */;
+		var updatepath="https://www.lanzous.com/b743927";
 		try{
 			if(device.appPackName=='com.google.android.apps.maps') {
 				newestversion='2.6.0';
