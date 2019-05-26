@@ -873,7 +873,7 @@
                 "version":item.version,
                 "author":"CCAV",
                 "lowicon":"img/logo.png",
-                "disabled":item.disabled,
+                "disabled":"VIP"/* item.disabled */,
                 "text":item.name,
                 "url":host+"epks/"+item.name+".epk"
             };
