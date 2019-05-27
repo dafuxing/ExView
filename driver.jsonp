@@ -910,7 +910,7 @@
                 "version":item.version,
                 "author":"CCAV",
                 "lowicon":"img/logo.png",
-                "disabled":"VIP"/* item.disabled */,
+                "disabled":item.disabled,
                 "text":item.name,
                 "url":host+"epks/"+item.name+".epk"
             };
