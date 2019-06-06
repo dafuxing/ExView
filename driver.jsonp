@@ -780,6 +780,46 @@
             },
             {
                 "name": "\u767d\u9f99\u541b\u6f2b\u753b",
+                "version": "0.0.2"
+            },
+            {
+                "name": "\u52a8\u6f2b\u5728\u7ebf",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u6f2b\u753b\u770b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u5927\u9b54\u5154",
+                "version": "0.0.1"
+            },
+            {
+                "name": "9\u5e93\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u66b4\u8d70\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "MOXI\u52a8\u6f2b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u638c\u4e0a\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "SS\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u97e9\u6f2b\u6f2b\u753b",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u5e7d\u5ba2\u793e",
                 "version": "0.0.1"
             },
             {
@@ -824,7 +864,7 @@
             },
             {
                 "name": "\u98de\u98de\u6f2b\u753b",
-                "version": "0.0.1"
+                "version": "0.0.2"
             },
             {
                 "name": "\u5600\u5600\u561f\u561f",
@@ -883,6 +923,34 @@
                 "version": "0.0.2"
             },
             {
+                "name": "Nyahentai\uff08H\u6f2b\uff09",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u556a\u556a\u556a\u6f2b\u753b\uff08H\u6f2b\uff09",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u91cc\u756a\u672c\u5b50\u5e93\uff08H\u6f2b\uff09",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u672c\u5b50\u5e93\uff08H\u6f2b\uff09",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u556a\u556a\u6f2b\u753b\uff08H\u6f2b\uff09",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u9a9a\u4eba\u6c14\uff08H\u6f2b\uff09",
+                "version": "0.0.1"
+            },
+            {
+                "name": "\u90aa\u6076\u6f2b\u753b\uff08H\u6f2b\uff09",
+                "version": "0.0.1"
+            },
+            {
                 "name": "Simply Hentai\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
             },
@@ -913,7 +981,7 @@
             {
                 "name": "\u7ec5\u58eb\u6f2b\u753b\uff08H\u6f2b\uff09",
                 "version": "0.0.1"
-            },
+            }
         ]// .filter(function(item){
         //     return item.name.indexOf('H漫')==-1;
         // })
