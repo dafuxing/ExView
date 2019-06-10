@@ -1,6 +1,7 @@
 # ExView - Excellent Viewer  
 作者：Gentle Kwan  
 
+官网:https://www.exview.ml/  
 MD设计风格的ACGN的多功能阅览平台  
 ExView支持所有CPU平台Android4.4以上的系统  
 ExView+支持ARM和X86的CPU平台Android4.0以上的系统  
