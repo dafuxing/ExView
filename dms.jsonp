@@ -249,7 +249,7 @@ if(isios()||isvip||isnight){
 
 localStorage.ExView_GroupIds=["970222959","772826136","416613442","591859003","588751182"];
 
-localStorage.ExView_Prehandle='(localStorage.ExView_IndexInfo&&!mySession.blockad&&!getvipdisp(mySession.personinfo.name)&&navigator.onLine!=false)&&$$(localStorage.ExView_IndexInfo).insertAfter($$(".page[data-page=\'Index\'] .presoninfo_bg"));try{if(ExView.versionCode<=201906090){sessionStorage.qrweixin=sessionStorage.blankimg;}}catch(e){}';
+localStorage.ExView_Prehandle='(localStorage.ExView_IndexInfo&&!mySession.blockad&&!getvipdisp(mySession.personinfo.name)&&navigator.onLine!=false)&&$$(localStorage.ExView_IndexInfo).insertAfter($$(".page[data-page=\'Index\'] .presoninfo_bg"));try{if(ExView.versionCode<=201906180){sessionStorage.qrweixin=sessionStorage.blankimg;}}catch(e){}';
 
 try{
 	mySession.handleIframeOnloaded=function(container,type){if($$(container).attr("loaded")){return}$$(container).attr("loaded",1);var handle=function(dirt){var dofn=function(){if(type==1){container.src='javascript:\'<img src="https://raw.githubusercontent.com/ghostgzt/ExView/master/res/gad_468x80.jpg" style="width:100%;"/>\''}else{container.src='javascript:\'<img src="https://raw.githubusercontent.com/ghostgzt/ExView/master/res/gad_300x250.jpg" style="width:100%;"/>\''}};if(dirt){dofn();return}$$.get("https://exview.gtool.ml/",function(){},function(){dofn()})};try{var win=container.contentWindow||container.window;if((win.location.href.indexOf("data")==0)){handle(true)}else{handle()}}catch(e){}}
@@ -381,7 +381,7 @@ try{
 
 }
 try{
-	if(ExView.versionCode<=201906090){
+	if(ExView.versionCode<=201906180){
 		sessionStorage.qrweixin=sessionStorage.blankimg;
 	}
 }catch(e){
