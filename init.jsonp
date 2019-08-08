@@ -136,6 +136,18 @@
         var rulePlugins=
         [
             {
+				"name": "\u54d4\u5494\u5c0f\u91cc\u756a",
+				"version": "0.0.1",
+				"disabled":"VIP",
+				"icon":"https://oc.woyeahgo.cf/static/h.jpg"
+			},
+			{
+				"name": "\u54d4\u5494\u5c0f\u89c6\u9891",
+				"version": "0.0.1",
+				"disabled":"VIP",
+				"icon":"https://oc.woyeahgo.cf/static/av.jpg"
+			},
+            {
                 "name": "My176",
                 "version": "0.0.1",
                 "disabled":"VIP"
@@ -1213,7 +1225,7 @@
         .map(function(item){
             return {
                 "name":"mhydrule"+md5(item.name),
-                "icon":getwordcover(cutstr(item.name,1,'')),
+                "icon":item.icon||getwordcover(cutstr(item.name,1,'')),
                 "title":item.name,
                 "type":"规则",
                 "version":item.version,
