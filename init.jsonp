@@ -136,6 +136,12 @@
         var rulePlugins=
         [
             {
+                "name": "\u867e\u6f2b",
+                "version": "0.0.1",
+				"disabled":"VIP",
+				"icon":"https://imgsa.baidu.com/forum/pic/item/9513b07eca806538f4d2ccca99dda144ad34822b.jpg"
+            },
+            {
 				"name": "\u54d4\u5494\u5c0f\u91cc\u756a",
 				"version": "0.0.1",
 				"disabled":"VIP",
