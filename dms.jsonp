@@ -381,9 +381,9 @@ try{
 
 }
 try{
-	if(ExView.versionCode<=201906180){
+	// if(ExView.versionCode<=201906180){
 		sessionStorage.qrweixin="https://raw.githubusercontent.com/ghostgzt/ExView/master/res/ylpay.png"/* sessionStorage.blankimg */;
-	}
+	// }
 }catch(e){
 
 }
