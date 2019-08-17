@@ -200,6 +200,11 @@
 				"icon":"https://oc.woyeahgo.cf/images/group-app.jpg"
             },
             {
+                "name": "\u51f9\u51f8\u5427",
+                "version": "0.0.1",
+                "disabled":"VIP"
+            },
+            {
                 "name": "My176",
                 "version": "0.0.2",
                 "disabled":"VIP"
@@ -407,6 +412,10 @@
                     "version": "0.0.1"
                 },
                 {
+                    "name": "\u7231\u4f18\u6f2b\uff08APP\uff09",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "\u7231\u98d2\u6f2b\u753b\uff08PC\uff09",
                     "version": "0.0.1"
                 },
@@ -460,6 +469,10 @@
                 },
                 {
                     "name": "\u4e59\u5973\u6f2b\u753b\uff08PC\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u7231\u4f18\u6f2b\uff08PC\uff09",
                     "version": "0.0.1"
                 },
                 {
@@ -556,7 +569,7 @@
                 },
                 {
                     "name": "\u7231\u4f18\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u753b1234",
@@ -576,7 +589,7 @@
                 },
                 {
                     "name": "\u5854\u591a\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u5c4b",
@@ -696,7 +709,7 @@
                 },
                 {
                     "name": "\u4e00\u6f2b\u7f51",
-                    "version": "0.0.3"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u6211\u8981\u5c0f\u5c0f\u7f51",
@@ -1268,6 +1281,14 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u6751",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "OH\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "G\u6f2b\u753b",
                     "version": "0.0.1"
                 }
             ]
