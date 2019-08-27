@@ -561,7 +561,7 @@
                 },
                 {
                     "name": "733\u52a8\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u53e4\u98ce\u6f2b\u753b",
@@ -613,7 +613,7 @@
                 },
                 {
                     "name": "\u975e\u5e38\u7231\u6f2b",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u56fd\u6f2b\u5427",
@@ -1289,6 +1289,14 @@
                 },
                 {
                     "name": "G\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u6f2b\u9605\u5a92",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "MangaPark",
                     "version": "0.0.1"
                 }
             ]
