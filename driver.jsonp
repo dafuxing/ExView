@@ -205,6 +205,11 @@
                 "disabled":"VIP"
             },
             {
+                "name": "\u56fe\u610f\u7f51",
+                "version": "0.0.1",
+                "disabled":"VIP"
+            },
+            {
                 "name": "My176",
                 "version": "0.0.2",
                 "disabled":"VIP"
