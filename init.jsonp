@@ -1279,6 +1279,26 @@
                 {
                     "name": "MangaPark",
                     "version": "0.0.1"
+                },
+                {
+                    "name": "\u4e0b\u62c9\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u7c73\u8089\u8089\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u591a\u591a\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u5929\u5929\u7231\u52a8\u6f2b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u6d77\u8d3c\u5c0f\u7ad9",
+                    "version": "0.0.1"
                 }
             ]
         ).filter(function(item){
