@@ -364,11 +364,11 @@
                 },
                 {
                     "name": "\u52a8\u6f2b\u4e4b\u5bb6\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u4e4b\u5bb6v1\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u4e4b\u5bb6v2\uff08APP\uff09",
@@ -488,6 +488,10 @@
                 },
                 {
                     "name": "\u7231\u4f18\u6f2b\uff08PC\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u52a8\u6f2b\u4e4b\u5bb6\uff08PC\uff09",
                     "version": "0.0.1"
                 },
                 {
@@ -1332,6 +1336,10 @@
                 },
                 {
                     "name": "\u6d77\u8d3c\u5c0f\u7ad9",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u52a8\u6f2b\u4e4b\u5bb6",
                     "version": "0.0.1"
                 }
             ]
