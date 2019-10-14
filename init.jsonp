@@ -143,28 +143,34 @@
             },
             {
 				"name": "\u54d4\u5494\u5c0f\u91cc\u756a",
-				"version": "0.0.1",
+				"version": "0.0.2",
 				"disabled":"VIP",
-				"icon":"https://oc.woyeahgo.cf/static/h.jpg"
+				"icon":"https://imgsa.baidu.com/forum/pic/item/2036349b033b5bb524b446f639d3d539b600bc5d.jpg"
 			},
 			{
 				"name": "\u54d4\u5494\u5c0f\u89c6\u9891",
-				"version": "0.0.1",
+				"version": "0.0.2",
 				"disabled":"VIP",
-				"icon":"https://oc.woyeahgo.cf/static/av.jpg"
+				"icon":"https://imgsa.baidu.com/forum/pic/item/6adbf2d3572c11df16f8d92b6c2762d0f703c28b.jpg"
             },
             {
                 "name": "\u4e8c\u6b21\u840c\u30a8\u30ed\u753b\u50cf\u30d6\u30ed\u30b0",
                 "version": "0.0.1",
                 "disabled":"VIP",
-				"icon":"https://oc.woyeahgo.cf/images/final-vote.jpeg"
+				"icon":"https://imgsa.baidu.com/forum/pic/item/7ec4a7efce1b9d16db04fd69fcdeb48f8d5464fc.jpg"
             },
             {
                 "name": "\u4e8c\u6b21\u5143\u306e\u30a8\u30c3\u30c1\u306a\u753b\u50cf",
                 "version": "0.0.2",
                 "disabled":"VIP",
-				"icon":"https://oc.woyeahgo.cf/images/group-app.jpg"
+				"icon":"https://imgsa.baidu.com/forum/pic/item/3c99033b5bb5c9eafb9065ebda39b6003af3b35d.jpg"
             },
+            {
+                "name": "\u0049\u0077\u0061\u0072\u0061\u52a8\u753b",
+                "version": "0.0.1",
+                "disabled":"VIP",
+				"icon":"https://imgsa.baidu.com/forum/pic/item/76084bfbfbedab645453c5e4f836afc379311efc.jpg"
+            },,
             {
                 "name": "\u0049\u0077\u0061\u0072\u0061\u52a8\u753b",
                 "version": "0.0.1",
