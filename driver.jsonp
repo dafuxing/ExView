@@ -772,6 +772,14 @@
                     "version": "0.0.1"
                 },
                 {
+                    "name": "\u54d4\u54e9\u6f2b\u753b\uff08\u6b63\u7248\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u53ef\u7c73\u9177\uff08\u6b63\u7248\uff09",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "\u6f2b\u5ba2\u6808\uff08APP\uff09",
                     "version": "0.0.2"
                 },
@@ -1036,6 +1044,18 @@
                     "version": "0.0.1"
                 },
                 {
+                    "name": "\u5f7c\u9605\u6f2b\u753b\uff08PC\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u5806\u7cd6\u56fe\u5e93",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u7f81\u7eca\u56fe\u5e93",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "\u7981\u6f2b\u5929\u5802\uff08H\u6f2b\uff09",
                     "version": "0.0.4"
                 },
@@ -1117,6 +1137,26 @@
                 },
                 {
                     "name": "MUA\u97e9\u6f2b\uff08H\u6f2b\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u5947\u5ba2\u6f2b\uff08H\u6f2b\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "Voiux\u56fe\u5e93\uff08H\u6f2b\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u59b9\u5b50\u56fe\uff08H\u6f2b\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u5168\u56fe\u7f51\uff08H\u6f2b\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u5b85\u7537\u5973\u795e\uff08H\u6f2b\uff09",
                     "version": "0.0.1"
                 },
                 {
@@ -2149,6 +2189,38 @@
                 },
                 {
                     "name": "\u5927\u6728\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u4eb2\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u6211\u8981\u53bb\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u4e50\u4e50\u97e9\u6f2b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u8150\u6f2b\u753bA",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u6f2b\u6f2b\u770b\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u54d4\u54e9\u76f8\u7c3f",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u7f8e\u684c\u7f51",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u5fc5\u5e94\u58c1\u7eb8",
                     "version": "0.0.1"
                 }
             ]
