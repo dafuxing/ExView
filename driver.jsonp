@@ -697,7 +697,7 @@
             [
                 {
                     "name": "\u817e\u8baf\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u7f51\u6613\u6f2b\u753b\uff08\u6b63\u7248\uff09",
@@ -705,11 +705,11 @@
                 },
                 {
                     "name": "\u6f2b\u5ba2\u6808\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u5e03\u5361\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u77e5\u97f3\u6f2b\u5ba2\uff08\u6b63\u7248\uff09",
@@ -717,11 +717,11 @@
                 },
                 {
                     "name": "\u6709\u5996\u6c14\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u5feb\u770b\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u7231\u98d2\u6f2b\u753b\uff08\u6b63\u7248\uff09",
@@ -729,7 +729,7 @@
                 },
                 {
                     "name": "\u9177\u6f2b\u7f51\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u5927\u89d2\u866b\uff08\u6b63\u7248\uff09",
@@ -737,7 +737,7 @@
                 },
                 {
                     "name": "\u6f2b\u6f2b\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u9ea6\u840c\u6f2b\u753b\uff08\u6b63\u7248\uff09",
@@ -749,7 +749,7 @@
                 },
                 {
                     "name": "\u6c64\u5706\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u56fd\u6f2bOACG\uff08\u6b63\u7248\uff09",
@@ -757,31 +757,23 @@
                 },
                 {
                     "name": "\u638c\u9605\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u5947\u70ed\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u7231\u5947\u827a\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u54aa\u5495\u52a8\u6f2b\uff08\u6b63\u7248\uff09",
                     "version": "0.0.1"
                 },
                 {
-                    "name": "\u54d4\u54e9\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u53ef\u7c73\u9177\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "\u6f2b\u5ba2\u6808\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u77e5\u97f3\u6f2b\u5ba2\uff08APP\uff09",
@@ -793,7 +785,7 @@
                 },
                 {
                     "name": "\u5feb\u770b\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u5927\u89d2\u866b\uff08APP\uff09",
@@ -805,11 +797,11 @@
                 },
                 {
                     "name": "\u52a8\u6f2b\u4e4b\u5bb6\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u4e4b\u5bb6v1\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u4e4b\u5bb6v2\uff08APP\uff09",
@@ -829,15 +821,15 @@
                 },
                 {
                     "name": "\u8150\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u4e00\u76f4\u770b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u756a\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u4eb2\u4eb2\u6f2b\u753b\uff08APP\uff09",
@@ -857,7 +849,7 @@
                 },
                 {
                     "name": "\u4e00\u672c\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u753b\u53f0\uff08APP\uff09",
@@ -865,7 +857,7 @@
                 },
                 {
                     "name": "\u591a\u591a\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u5fae\u535a\u52a8\u6f2b\uff08APP\uff09",
@@ -873,11 +865,11 @@
                 },
                 {
                     "name": "\u732b\u722a\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u7ea2\u8c46\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u753b\u7f8a\uff08APP\uff09",
@@ -901,7 +893,7 @@
                 },
                 {
                     "name": "\u7231\u98d2\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u53e4\u98ce\u6f2b\u753b\uff08PC\uff09",
@@ -909,27 +901,27 @@
                 },
                 {
                     "name": "\u549a\u6f2b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "CC\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "360\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u767e\u5e74\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "97\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6ef4\u6ef4\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u4e00\u62f3\u6f2b\u753b\uff08PC\uff09",
@@ -941,11 +933,11 @@
                 },
                 {
                     "name": "258\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u4e59\u5973\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u4e4b\u5bb6\uff08PC\uff09",
@@ -953,19 +945,19 @@
                 },
                 {
                     "name": "\u6781\u901f\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "X18\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u5e03\u5361\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "118\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u6f2b\u6f2b\u753b\uff08PC\uff09",
@@ -985,7 +977,7 @@
                 },
                 {
                     "name": "\u6765\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u6f2b\u770b\u6f2b\u753b\uff08PC\uff09",
@@ -993,11 +985,11 @@
                 },
                 {
                     "name": "\u6f2b\u753bLove\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u516d\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "1359\u6f2b\u753b\uff08PC\uff09",
@@ -1009,7 +1001,7 @@
                 },
                 {
                     "name": "\u7231\u7c73\u63a8\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "\u70ed\u95e8\u6f2b\u753b\uff08PC\uff09",
@@ -1033,7 +1025,7 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u5457\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u571f\u8c46\u6f2b\u753b\uff08PC\uff09",
@@ -1044,24 +1036,12 @@
                     "version": "0.0.1"
                 },
                 {
-                    "name": "\u5f7c\u9605\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u5806\u7cd6\u56fe\u5e93",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u7f81\u7eca\u56fe\u5e93",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "\u7981\u6f2b\u5929\u5802\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "Nyahentai\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u556a\u556a\u556a\u6f2b\u753b\uff08H\u6f2b\uff09",
@@ -1069,11 +1049,11 @@
                 },
                 {
                     "name": "\u91cc\u756a\u672c\u5b50\u5e93\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u672c\u5b50\u5e93\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u556a\u556a\u6f2b\u753b\uff08H\u6f2b\uff09",
@@ -1081,27 +1061,27 @@
                 },
                 {
                     "name": "\u9a9a\u4eba\u6c14\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.6"
                 },
                 {
                     "name": "\u90aa\u6076\u6f2b\u753b\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "Simply Hentai\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "NHentai\u6f2b\u753b\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u90aa\u7409\u7483\u795e\u793e\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u90aa\u6076\u9053\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u90aa\u6076\u96c6\uff08H\u6f2b\uff09",
@@ -1109,19 +1089,19 @@
                 },
                 {
                     "name": "\u55b5\u7ec5\u58eb\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.6"
                 },
                 {
                     "name": "177\u6f2b\u753b\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.6"
                 },
                 {
                     "name": "\u7ec5\u58eb\u6f2b\u753b\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "EHentai\u6f2b\u753b\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6b6a\u6b6a\u6f2b\u753b\uff08H\u6f2b\uff09",
@@ -1133,47 +1113,27 @@
                 },
                 {
                     "name": "\u514d\u8d39\u770b\u97e9\u6f2b\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.6"
                 },
                 {
                     "name": "MUA\u97e9\u6f2b\uff08H\u6f2b\uff09",
                     "version": "0.0.1"
                 },
                 {
-                    "name": "\u5947\u5ba2\u6f2b\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "Voiux\u56fe\u5e93\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u59b9\u5b50\u56fe\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u5168\u56fe\u7f51\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u5b85\u7537\u5973\u795e\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "\u6251\u98de\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "\u571f\u8c6a\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u5361\u63a8\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "733\u52a8\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u53e4\u98ce\u6f2b\u753b",
@@ -1181,55 +1141,55 @@
                 },
                 {
                     "name": "\u7231\u4f18\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u753b1234",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u6f2b\u753b160",
-                    "version": "0.0.1"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "57\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u829d\u58eb\u8c6a\u516b",
-                    "version": "0.0.1"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "\u5854\u591a\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u5c4b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6781\u901f\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u753b\u4eba",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u65b0\u65b0\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u549a\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u975e\u5e38\u7231\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u56fd\u6f2b\u5427",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u770b\u6f2b\u756b",
@@ -1237,39 +1197,39 @@
                 },
                 {
                     "name": "\u70b9\u62c9\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "CC\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "X18\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u4e03\u4e03\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "360\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "\u6f2b\u753b\u5806",
-                    "version": "0.0.1"
+                    "version": "0.0.8"
                 },
                 {
                     "name": "\u5d29\u574f3\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u753b123",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "36\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u4e59\u5973\u6f2b\u753b",
@@ -1277,7 +1237,7 @@
                 },
                 {
                     "name": "\u5575\u4e50\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u8150\u6f2b\u753b",
@@ -1285,15 +1245,15 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u5929\u5802",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u753b\u5427",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u753b\u6dd8",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u98de\u5362\u6f2b\u753b",
@@ -1301,7 +1261,7 @@
                 },
                 {
                     "name": "\u7231\u770b\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u5154\u5154\u6f2b\u753b",
@@ -1309,23 +1269,23 @@
                 },
                 {
                     "name": "\u7231\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u4e00\u6f2b\u7f51",
-                    "version": "0.0.1"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "\u6f2b\u753bLove",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u9876\u901a\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u65b0\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u753b\u94fa",
@@ -1333,11 +1293,11 @@
                 },
                 {
                     "name": "\u8349\u8722\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "178\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "71\u6f2b\u753b",
@@ -1349,23 +1309,23 @@
                 },
                 {
                     "name": "\u9ed1\u767d\u6f2b\u8bdd",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u672c",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u767e\u5e74\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u5439\u96ea\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "97\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "i\u5c1a\u6f2b",
@@ -1373,23 +1333,23 @@
                 },
                 {
                     "name": "zero\u642c\u8fd0\u7f51",
-                    "version": "0.0.1"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "777\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "517\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "ONE\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.14"
                 },
                 {
                     "name": "\u4e00\u76f4\u770b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6c57\u6c57\u9177\u6f2b",
@@ -1397,7 +1357,7 @@
                 },
                 {
                     "name": "\u6c57\u6c57\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u864e\u864e\u6f2b\u753b",
@@ -1409,15 +1369,15 @@
                 },
                 {
                     "name": "\u6f2b\u753bDB",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u5974\u5974\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "KuKu\u52a8\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u975e\u51e1\u6f2b\u753b",
@@ -1425,59 +1385,59 @@
                 },
                 {
                     "name": "\u53cb\u7ed8\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "\u6f2b\u753b\u53f0",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u795e\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u72c2",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u4e8c\u6b21\u5143\u52a8\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "98\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6ef4\u6ef4\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u753b\u697c",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "522\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u5446\u54e5\u54e5",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6765\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.8"
                 },
                 {
                     "name": "\u9b3c\u841d\u8389\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u50f5\u5c38\u738b\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u753b\u67dc",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u53ef\u53ef\u6f2b\u753b",
@@ -1485,7 +1445,7 @@
                 },
                 {
                     "name": "\u767d\u9f99\u541b\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u5728\u7ebf",
@@ -1513,15 +1473,15 @@
                 },
                 {
                     "name": "\u97e9\u6f2b\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "4399\u52a8\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "SFACG\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u8089\u6f2b\u753b",
@@ -1529,11 +1489,11 @@
                 },
                 {
                     "name": "\u51e4\u51f0\u52a8\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "90\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u9f20\u7ed8\u6f2b\u753b",
@@ -1541,11 +1501,11 @@
                 },
                 {
                     "name": "118\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u54c7\u560e\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "\u591c\u6597\u6f2b\u753b",
@@ -1557,11 +1517,11 @@
                 },
                 {
                     "name": "96\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u753b\u725b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "365\u6f2b\u753b",
@@ -1569,11 +1529,11 @@
                 },
                 {
                     "name": "\u98de\u98de\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "666\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "jpm1234\u6f2b\u753b",
@@ -1581,35 +1541,35 @@
                 },
                 {
                     "name": "1359\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "ACG456",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u98ce\u4e4b\u52a8\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u30de\u30f3\u30ac\u30af\u30ed\u30b9",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "MyReadingManga",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "Mangahere",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "Manamoa",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "Isekaiscan",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u5947\u5999\u6f2b\u753b",
@@ -1629,19 +1589,19 @@
                 },
                 {
                     "name": "\u6c49\u5316\u5427",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u9ed1\u9f20\u5427",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u620f\u8bf4",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u97e9\u6f2b\u5427",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6d77\u732b\u5427",
@@ -1657,7 +1617,7 @@
                 },
                 {
                     "name": "\u4eb2\u4eb2\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.8"
                 },
                 {
                     "name": "HiComic",
@@ -1673,15 +1633,15 @@
                 },
                 {
                     "name": "COMICO",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u70ed\u95e8\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "258\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "\u65e0\u9650\u52a8\u6f2b",
@@ -1689,23 +1649,23 @@
                 },
                 {
                     "name": "\u641c\u52a8\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "168\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u4e5d\u4e5d\u97e9\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "BuffACG\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u5566",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u65e5\u66f4\u8ba1\u5212",
@@ -1713,11 +1673,11 @@
                 },
                 {
                     "name": "TVBS\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u770b\u59b9\u5b50\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u83e0\u841d\u52a8\u6f2b",
@@ -1737,7 +1697,7 @@
                 },
                 {
                     "name": "\u54c6\u54e9\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u5947\u5ba2\u6f2b",
@@ -1749,7 +1709,7 @@
                 },
                 {
                     "name": "MangaBat",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "MangaKakalot",
@@ -1761,19 +1721,19 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u7c89",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "OH\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "G\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "MangaPark",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u4e0b\u62c9\u6f2b\u753b",
@@ -1781,19 +1741,19 @@
                 },
                 {
                     "name": "\u591a\u591a\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "\u5929\u5929\u7231\u52a8\u6f2b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6d77\u8d3c\u5c0f\u7ad9",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u52a8\u6f2b\u4e4b\u5bb6",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "Webtoon",
@@ -1801,11 +1761,11 @@
                 },
                 {
                     "name": "\u6f2b\u756b\u5bf6",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u753b\u76ae",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u770b\u6f2b\u753b",
@@ -1821,7 +1781,7 @@
                 },
                 {
                     "name": "\u79c0\u5341\u516b\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u5f7c\u9605\u6f2b\u753b",
@@ -1829,7 +1789,7 @@
                 },
                 {
                     "name": "\u4f18\u5a31\u9177",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u56fd\u4eba\u6f2b\u753b",
@@ -1837,7 +1797,7 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u6bbf",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u9177\u7231\u6f2b\u753b",
@@ -1845,7 +1805,7 @@
                 },
                 {
                     "name": "733\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u756b\u8ff7",
@@ -1857,7 +1817,7 @@
                 },
                 {
                     "name": "520\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6ef4\u54e9\u6f2b\u753b",
@@ -1865,11 +1825,11 @@
                 },
                 {
                     "name": "\u516d\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "Mangabz",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u7231\u770b\u6f2b\u753b\u7f51",
@@ -1881,11 +1841,11 @@
                 },
                 {
                     "name": "\u53d7\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u503e\u57ce\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "Manganelo",
@@ -1893,15 +1853,15 @@
                 },
                 {
                     "name": "\u4e5d\u5566\u5566\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u54c8\u54c8\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u571f\u8c46\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "46\u6f2b\u753b",
@@ -1909,23 +1869,23 @@
                 },
                 {
                     "name": "\u9177\u6f2b\u5c4b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u59ae\u59ae\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u65e5\u65e5\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "43423\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u770b\u6f2b\u793e",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u53e4\u53e4\u6f2b\u753b",
@@ -1937,7 +1897,7 @@
                 },
                 {
                     "name": "\u5947\u6f2b\u5c4b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u4e91\u6f2b\u753b",
@@ -1945,7 +1905,7 @@
                 },
                 {
                     "name": "8Comic",
-                    "version": "0.0.1"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "40\u6f2b\u753b",
@@ -1953,7 +1913,7 @@
                 },
                 {
                     "name": "TuHao\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u753b\u56ed\u6f2b\u753b",
@@ -1961,15 +1921,15 @@
                 },
                 {
                     "name": "\u7231\u7c73\u63a8\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.8"
                 },
                 {
                     "name": "\u4fa0\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u4e50\u8bed\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u753b\u7801",
@@ -1981,11 +1941,11 @@
                 },
                 {
                     "name": "\u5a01\u7279\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u9760\u8c31\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u98de\u6f2b\u753b",
@@ -1993,7 +1953,7 @@
                 },
                 {
                     "name": "\u5c71\u7acb\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6b63\u89c4\u6f2b\u753b",
@@ -2025,11 +1985,11 @@
                 },
                 {
                     "name": "369\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u96ea\u68a8\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "MangaHato",
@@ -2037,7 +1997,7 @@
                 },
                 {
                     "name": "LoveHeaven",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "18LHPlus",
@@ -2053,7 +2013,7 @@
                 },
                 {
                     "name": "\u4e45\u4e94\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u8349\u8393\u6f2b\u753b",
@@ -2073,7 +2033,7 @@
                 },
                 {
                     "name": "\u51b0\u6c2a\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u5154\u5154\u5e9c",
@@ -2093,7 +2053,7 @@
                 },
                 {
                     "name": "\u72ec\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "RoozFun\u6f2b\u753b",
@@ -2109,11 +2069,11 @@
                 },
                 {
                     "name": "ACG\u548c\u8c10\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u8482\u4e9a\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "2Comic",
@@ -2121,7 +2081,7 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u5457",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "X\u6f2b\u753b",
@@ -2169,7 +2129,7 @@
                 },
                 {
                     "name": "\u6b66\u4fa0\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u524d\u672a\u6f2b\u753b",
@@ -2189,38 +2149,6 @@
                 },
                 {
                     "name": "\u5927\u6728\u6f2b\u753b",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u4eb2\u6f2b\u753b",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u6211\u8981\u53bb\u6f2b\u753b",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u4e50\u4e50\u97e9\u6f2b",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u8150\u6f2b\u753bA",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u6f2b\u6f2b\u770b\u6f2b\u753b",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u54d4\u54e9\u76f8\u7c3f",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u7f8e\u684c\u7f51",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u5fc5\u5e94\u58c1\u7eb8",
                     "version": "0.0.1"
                 }
             ]
