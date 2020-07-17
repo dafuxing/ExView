@@ -275,11 +275,6 @@
                 "version": "0.0.1"
             },
             {
-                "name": "Voiux\u56fe\u5e93",
-                "version": "0.0.2",
-                "disabled":"VIP",
-            },
-            {
                 "name": "\u5fae\u535a\u535a\u4e3b",
                 "version": "0.0.1"
             }
@@ -357,6 +352,18 @@
                 "name": "\u5b85\u7537\u5973\u795e",
                 "version": "0.0.1",
                 "disabled":"VIP",
+            },
+            {
+                "name": "美桌网",
+                "version": "0.0.1"
+            },
+            {
+                "name": "羁绊图库",
+                "version": "0.0.1"
+            },
+            {
+                "name": "必应壁纸",
+                "version": "0.0.1"
             }
         ]
         .map(function(item){
@@ -1032,10 +1039,6 @@
                     "version": "0.0.1"
                 },
                 {
-                    "name": "\u7f81\u7eca\u56fe\u5e93",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "\u7981\u6f2b\u5929\u5802\uff08H\u6f2b\uff09",
                     "version": "0.0.4"
                 },
@@ -1121,22 +1124,6 @@
                 },
                 {
                     "name": "\u5947\u5ba2\u6f2b\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "Voiux\u56fe\u5e93\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u59b9\u5b50\u56fe\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u5168\u56fe\u7f51\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u5b85\u7537\u5973\u795e\uff08H\u6f2b\uff09",
                     "version": "0.0.1"
                 },
                 {
@@ -1353,7 +1340,7 @@
                 },
                 {
                     "name": "zero\u642c\u8fd0\u7f51",
-                    "version": "0.0.8"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "777\u6f2b\u753b",
@@ -1757,7 +1744,7 @@
                 },
                 {
                     "name": "\u591a\u591a\u6f2b\u753b",
-                    "version": "0.0.8"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "\u5929\u5929\u7231\u52a8\u6f2b",
@@ -1877,7 +1864,7 @@
                 },
                 {
                     "name": "\u9177\u6f2b\u5c4b",
-                    "version": "0.0.3"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u59ae\u59ae\u6f2b\u753b",
@@ -2045,7 +2032,7 @@
                 },
                 {
                     "name": "\u51b0\u6c2a\u6f2b\u753b",
-                    "version": "0.0.4"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u5154\u5154\u5e9c",
@@ -2081,7 +2068,7 @@
                 },
                 {
                     "name": "ACG\u548c\u8c10\u6f2b\u753b",
-                    "version": "0.0.4"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u8482\u4e9a\u6f2b\u753b",
@@ -2185,14 +2172,6 @@
                 },
                 {
                     "name": "\u54d4\u54e9\u76f8\u7c3f",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u7f8e\u684c\u7f51",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u5fc5\u5e94\u58c1\u7eb8",
                     "version": "0.0.1"
                 }
             ]
