@@ -900,7 +900,7 @@
                 },
                 {
                     "name": "CC\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.4"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "360\u6f2b\u753b\uff08PC\uff09",
@@ -991,10 +991,6 @@
                     "version": "0.0.1"
                 },
                 {
-                    "name": "TuHao\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "\u7231\u7c73\u63a8\u6f2b\u753b\uff08PC\uff09",
                     "version": "0.0.9"
                 },
@@ -1033,6 +1029,10 @@
                 {
                     "name": "\u5f7c\u9605\u6f2b\u753b\uff08PC\uff09",
                     "version": "0.0.2"
+                },
+                {
+                    "name": "\u571f\u8c6a\u6f2b\u753b\uff08PC\uff09",
+                    "version": "0.0.1"
                 },
                 {
                     "name": "\u7981\u6f2b\u5929\u5802\uff08H\u6f2b\uff09",
@@ -1128,7 +1128,7 @@
                 },
                 {
                     "name": "\u571f\u8c6a\u6f2b\u753b",
-                    "version": "0.0.4"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "\u5361\u63a8\u6f2b\u753b",
@@ -1204,7 +1204,7 @@
                 },
                 {
                     "name": "CC\u6f2b\u753b",
-                    "version": "0.0.3"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "X18\u6f2b\u753b",
@@ -1907,10 +1907,6 @@
                     "version": "0.0.1"
                 },
                 {
-                    "name": "TuHao\u6f2b\u753b",
-                    "version": "0.0.2"
-                },
-                {
                     "name": "\u6f2b\u753b\u56ed\u6f2b\u753b",
                     "version": "0.0.1"
                 },
@@ -2117,10 +2113,6 @@
                 {
                     "name": "\u9f99\u738b\u4f20\u8bf4\u6f2b\u753b",
                     "version": "0.0.1"
-                },
-                {
-                    "name": "CC\u6f2b\u753b12",
-                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6b66\u4fa0\u6f2b\u753b",
