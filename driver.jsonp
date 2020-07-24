@@ -1018,7 +1018,7 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u5457\uff08PC\uff09",
-                    "version": "0.0.3"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u571f\u8c46\u6f2b\u753b\uff08PC\uff09",
@@ -1222,7 +1222,7 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u5806",
-                    "version": "0.0.9"
+                    "version": "0.0.10"
                 },
                 {
                     "name": "\u5d29\u574f3\u6f2b\u753b",
@@ -1718,7 +1718,7 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u7c89",
-                    "version": "0.0.4"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "OH\u6f2b\u753b",
@@ -2062,7 +2062,7 @@
                 },
                 {
                     "name": "\u8482\u4e9a\u6f2b\u753b",
-                    "version": "0.0.6"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "2Comic",
@@ -2070,7 +2070,7 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u5457",
-                    "version": "0.0.3"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "X\u6f2b\u753b",
@@ -2137,10 +2137,6 @@
                     "version": "0.0.1"
                 },
                 {
-                    "name": "\u4eb2\u6f2b\u753b",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "\u6211\u8981\u53bb\u6f2b\u753b",
                     "version": "0.0.1"
                 },
@@ -2162,7 +2158,7 @@
                 },
                 {
                     "name": "\u6700\u6f2b\u753b",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 }
             ]
         )// .filter(function(item){
