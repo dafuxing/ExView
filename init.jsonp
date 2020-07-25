@@ -1037,6 +1037,10 @@
                     "version": "0.0.1"
                 },
                 {
+                    "name": "\u571f\u8c6a\u6f2b\u753b\u7f51\uff08PC\uff09",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "\u7981\u6f2b\u5929\u5802\uff08H\u6f2b\uff09",
                     "version": "0.0.4"
                 },
@@ -2159,6 +2163,10 @@
                 {
                     "name": "\u6700\u6f2b\u753b",
                     "version": "0.0.5"
+                },
+                {
+                    "name": "\u571f\u8c6a\u6f2b\u753b\u7f51",
+                    "version": "0.0.1"
                 }
             ]
         )// .filter(function(item){
