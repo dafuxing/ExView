@@ -734,7 +734,7 @@
                 },
                 {
                     "name": "\u7231\u98d2\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u9177\u6f2b\u7f51\uff08\u6b63\u7248\uff09",
@@ -742,7 +742,7 @@
                 },
                 {
                     "name": "\u5927\u89d2\u866b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u6f2b\u6f2b\u6f2b\u753b\uff08\u6b63\u7248\uff09",
@@ -766,7 +766,7 @@
                 },
                 {
                     "name": "\u5947\u70ed\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u7231\u5947\u827a\u6f2b\u753b\uff08\u6b63\u7248\uff09",
@@ -798,7 +798,7 @@
                 },
                 {
                     "name": "\u5927\u89d2\u866b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u638c\u9605\u6f2b\u753b\uff08APP\uff09",
@@ -894,7 +894,7 @@
                 },
                 {
                     "name": "\u7231\u98d2\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u53e4\u98ce\u6f2b\u753b\uff08PC\uff09",
@@ -1026,7 +1026,7 @@
                 },
                 {
                     "name": "\u503e\u57ce\u6f2b\u753b\uff08PC\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u5f7c\u9605\u6f2b\u753b\uff08PC\uff09",
@@ -1834,7 +1834,7 @@
                 },
                 {
                     "name": "\u503e\u57ce\u6f2b\u753b",
-                    "version": "0.0.4"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "Manganelo",
@@ -2010,7 +2010,7 @@
                 },
                 {
                     "name": "\u4f18\u9177\u6f2b\u753b",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u753b\u82af",
