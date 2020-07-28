@@ -90,7 +90,7 @@ if(!isdesktop()){
 		var newestversioninfo="2020.07.24 2.6.4_beta7<br>修复闪退和解析失败问题<br>其他平台请前往官网下载<br>https://www.exview.ml/<br>请分享ExView给你的朋友，感谢支持，有你们支持ExView会越做越好！";
 		var updatepath='https://pan.baidu.com/s/1A2qEvVRFlmRgLn9RRLeSsQ';	
 		var onlineupdatepath="https://ghostgzt.github.io/ExView/platforms/ios/MoeRuntimeIOS.bin"+('?_='+(new Date()).getTime());
-		onlineupdatemd5="033301b4729fbfa74bb921ffa14317ee";
+		onlineupdatemd5="fea7437fb748e8754322787df10cc106";
 		var onlineupdateversionName=newestversion;
 		var onlineupdateversionCode=202007280;
 		onlineupdate=true;
