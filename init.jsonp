@@ -2171,6 +2171,10 @@
                 {
                     "name": "\u5c0f\u767d\u6f2b\u753b",
                     "version": "0.0.1"
+                },
+                {
+                    "name": "KAN\u6f2b\u753b",
+                    "version": "0.0.1"
                 }
             ]
         )// .filter(function(item){
