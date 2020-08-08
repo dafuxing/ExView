@@ -729,10 +729,6 @@
                     "version": "0.0.2"
                 },
                 {
-                    "name": "\u5feb\u770b\u6f2b\u753b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.3"
-                },
-                {
                     "name": "\u7231\u98d2\u6f2b\u753b\uff08\u6b63\u7248\uff09",
                     "version": "0.0.2"
                 },
@@ -791,10 +787,6 @@
                 {
                     "name": "\u6709\u5996\u6c14\uff08APP\uff09",
                     "version": "0.0.1"
-                },
-                {
-                    "name": "\u5feb\u770b\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.2"
                 },
                 {
                     "name": "\u5927\u89d2\u866b\uff08APP\uff09",
@@ -890,6 +882,10 @@
                 },
                 {
                     "name": "\u514d\u8d39\u6f2b\u753b\u5168\u96c6\uff08APP\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u9ea6\u53ef\u6f2b\u753b\uff08APP\uff09",
                     "version": "0.0.1"
                 },
                 {
@@ -1150,7 +1146,7 @@
                 },
                 {
                     "name": "\u6251\u98de\u6f2b\u753b",
-                    "version": "0.0.7"
+                    "version": "0.0.8"
                 },
                 {
                     "name": "\u571f\u8c6a\u6f2b\u753b",
@@ -2046,7 +2042,7 @@
                 },
                 {
                     "name": "\u72ec\u6f2b\u753b",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "RoozFun\u6f2b\u753b",
@@ -2142,7 +2138,7 @@
                 },
                 {
                     "name": "\u6211\u8981\u53bb\u6f2b\u753b",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u4e50\u4e50\u97e9\u6f2b",
@@ -2174,6 +2170,10 @@
                 },
                 {
                     "name": "KAN\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u9ea6\u53ef\u6f2b\u753b",
                     "version": "0.0.1"
                 }
             ]
