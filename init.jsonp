@@ -1042,7 +1042,7 @@
                 },
                 {
                     "name": "\u7981\u6f2b\u5929\u5802\uff08H\u6f2b\uff09",
-                    "version": "0.0.4"
+                    "version": "0.0.5"
                 },
                 {
                     "name": "Nyahentai\uff08H\u6f2b\uff09",
@@ -1118,7 +1118,7 @@
                 },
                 {
                     "name": "\u514d\u8d39\u770b\u97e9\u6f2b\uff08H\u6f2b\uff09",
-                    "version": "0.0.6"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "MUA\u97e9\u6f2b\uff08H\u6f2b\uff09",
@@ -2182,6 +2182,10 @@
                 },
                 {
                     "name": "\u9e7f\u53ef\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u975e\u9ebb\u74dc\u6f2b\u753b",
                     "version": "0.0.1"
                 }
             ]
