@@ -738,7 +738,7 @@
                 },
                 {
                     "name": "\u5927\u89d2\u866b\uff08\u6b63\u7248\uff09",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u6f2b\u6f2b\u6f2b\u753b\uff08\u6b63\u7248\uff09",
@@ -886,7 +886,7 @@
                 },
                 {
                     "name": "\u9ea6\u53ef\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "\u7231\u98d2\u6f2b\u753b\uff08PC\uff09",
@@ -1042,6 +1042,14 @@
                 },
                 {
                     "name": "168\u6f2b\u753b\uff08PC\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u9ea6\u53ef\u6f2b\u753b\uff08PC\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u5927\u89d2\u866b\uff08PC\uff09",
                     "version": "0.0.1"
                 },
                 {
@@ -1886,11 +1894,11 @@
                 },
                 {
                     "name": "43423\u6f2b\u753b",
-                    "version": "0.0.6"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "\u6f2b\u6f2b820",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u770b\u6f2b\u793e",
@@ -2182,7 +2190,7 @@
                 },
                 {
                     "name": "\u9ea6\u53ef\u6f2b\u753b",
-                    "version": "0.0.1"
+                    "version": "0.0.2"
                 },
                 {
                     "name": "94\u6f2b\u753b",
@@ -2202,6 +2210,10 @@
                 },
                 {
                     "name": "\u601d\u601d\u6f2b\u753b",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "43423\u6f2b\u753b\u7f51",
                     "version": "0.0.1"
                 }
             ]
