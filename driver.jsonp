@@ -858,7 +858,7 @@
                 },
                 {
                     "name": "\u732b\u722a\u6f2b\u753b\uff08APP\uff09",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u7ea2\u8c46\u6f2b\u753b\uff08APP\uff09",
@@ -1053,6 +1053,14 @@
                     "version": "0.0.1"
                 },
                 {
+                    "name": "\u6f2b\u753b\u94fa\uff08PC\uff09",
+                    "version": "0.0.1"
+                },
+                {
+                    "name": "\u6f2b\u753b\u7801\uff08PC\uff09",
+                    "version": "0.0.1"
+                },
+                {
                     "name": "\u7981\u6f2b\u5929\u5802\uff08H\u6f2b\uff09",
                     "version": "0.0.5"
                 },
@@ -1218,7 +1226,7 @@
                 },
                 {
                     "name": "\u65b0\u65b0\u6f2b\u753b",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u549a\u6f2b",
@@ -1326,7 +1334,7 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u94fa",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "\u8349\u8722\u6f2b\u753b",
@@ -1946,7 +1954,7 @@
                 },
                 {
                     "name": "\u6f2b\u753b\u7801",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "2020\u6f2b\u753b",
@@ -2114,7 +2122,7 @@
                 },
                 {
                     "name": "147\u6f2b\u753b",
-                    "version": "0.0.2"
+                    "version": "0.0.3"
                 },
                 {
                     "name": "HanaScan",
@@ -2130,7 +2138,7 @@
                 },
                 {
                     "name": "\u6b66\u4fa0\u6f2b\u753b",
-                    "version": "0.0.5"
+                    "version": "0.0.6"
                 },
                 {
                     "name": "\u524d\u672a\u6f2b\u753b",
@@ -2146,7 +2154,7 @@
                 },
                 {
                     "name": "39\u6f2b\u753b",
-                    "version": "0.0.3"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u5927\u6728\u6f2b\u753b",
