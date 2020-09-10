@@ -1066,19 +1066,15 @@
                 },
                 {
                     "name": "\u7981\u6f2b\u5929\u5802\uff08H\u6f2b\uff09",
-                    "version": "0.0.5"
+                    "version": "0.0.6"
                 },
                 {
                     "name": "Nyahentai\uff08H\u6f2b\uff09",
                     "version": "0.0.3"
                 },
                 {
-                    "name": "\u556a\u556a\u556a\u6f2b\u753b\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
-                },
-                {
                     "name": "\u91cc\u756a\u672c\u5b50\u5e93\uff08H\u6f2b\uff09",
-                    "version": "0.0.3"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u672c\u5b50\u5e93\uff08H\u6f2b\uff09",
@@ -1090,7 +1086,7 @@
                 },
                 {
                     "name": "\u9a9a\u4eba\u6c14\uff08H\u6f2b\uff09",
-                    "version": "0.0.6"
+                    "version": "0.0.7"
                 },
                 {
                     "name": "\u90aa\u6076\u6f2b\u753b\uff08H\u6f2b\uff09",
@@ -1111,10 +1107,6 @@
                 {
                     "name": "\u90aa\u6076\u9053\uff08H\u6f2b\uff09",
                     "version": "0.0.2"
-                },
-                {
-                    "name": "\u90aa\u6076\u96c6\uff08H\u6f2b\uff09",
-                    "version": "0.0.1"
                 },
                 {
                     "name": "\u55b5\u7ec5\u58eb\uff08H\u6f2b\uff09",
@@ -1614,7 +1606,7 @@
                 },
                 {
                     "name": "Isekaiscan",
-                    "version": "0.0.3"
+                    "version": "0.0.4"
                 },
                 {
                     "name": "\u5947\u5999\u6f2b\u753b",
