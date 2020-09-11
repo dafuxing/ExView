@@ -209,9 +209,15 @@
             {
                 "name": "ComicFree",
                 "version": "0.0.8",
-                "disabled":"VIP",
+                "disabled":"SSVIP",
 				"icon":"https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=1484273874,2981910369&fm=26&gp=0.jpg"
             },
+            {
+                "name": "EroCool\u6f2b\u753b",
+                "version": "0.0.1",
+                "disabled":"SSVIP",
+				"icon":"https://static.erocool.com/e/favicon/apple-touch-icon.png"
+            },            
             {
                 "name": "\u51f9\u51f8\u5427",
                 "version": "0.0.2",
