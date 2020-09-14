@@ -24,7 +24,11 @@
     // var host="https://raw.githubusercontent.com/ghostgzt/ExView/master/";
     var host="https://ghostgzt.github.io/ExView/";
     // var host="https://github.com/ghostgzt/ExView/raw/master/";
-    
+
+
+function handle(){
+
+
     var json={"plugins":[
         {"name":"SourceBlackList","type":"\u529f\u80fd","icon":"img/logo.png",lowicon:"img/logo.png","title":"\u6765\u6e90\u9ed1\u540d\u5355\u7ba1\u7406","version":"2.5","author":"Gentle","disabled":"","text":"\u8fc7\u6ee4\u4e00\u4e9b\u6709\u5bb3\u7684\u7f51\u7ad9\u6765\u6e90","url":host+"features/SourceBlackList.jsm"},
         {"name":"RulePlugin","type":"\u529f\u80fd","icon":getbaiduimg("c4d6e924b899a9019c1308fa10950a7b0308f53b"),"title":"\u6dfb\u52a0\u7ad9\u70b9\u89c4\u5219","version":"2.5.122","author":"Gentle","disabled":"","text":"\u901a\u8fc7\u7b80\u5355\u7684\u7ad9\u70b9\u89c4\u5219\u521b\u5efa\u6765\u6e90\uff01","url":host+"features/RulePlugin.jsm"},
@@ -2275,4 +2279,32 @@
     }catch(e){}
 
     InitJSON(json);
+}
+
+
+    $$.ajax({url:'http://ip-api.com/json/',success:function(r){
+        var json={};
+        try{
+            json=JSON.parse(r);
+        }catch(e){}
+        if(json.country&&json.country!='China'){
+            $$.ajax({url:host+'init_oversea.jsonp',success:function(r){
+                try{
+                    eval(r);
+                }catch(e){
+                     handle();
+                }
+            },error:function(e){
+                handle();
+                console.log('fuck!')
+            }});
+        }else{
+            handle();
+        }
+
+
+},error:function(e){
+    handle();
+}})
+
 })();
