@@ -838,10 +838,10 @@ function handle(){
                     "name": "\u6f2b\u756a\u6f2b\u753b\uff08APP\uff09",
                     "version": "0.0.2"
                 },
-                {
-                    "name": "\u6f2b\u753b\u5168\u96c6\uff08APP\uff09",
-                    "version": "0.0.1"
-                },
+                // {
+                //     "name": "\u6f2b\u753b\u5168\u96c6\uff08APP\uff09",
+                //     "version": "0.0.1"
+                // },
                 {
                     "name": "Boom\u6f2b\u753b\uff08APP\uff09",
                     "version": "0.0.1"
@@ -2206,14 +2206,14 @@ function handle(){
                     "name": "\u975e\u9ebb\u74dc\u6f2b\u753b",
                     "version": "0.0.1"
                 },
-                {
-                    "name": "\u4f9d\u4f9d\u6f2b\u753b",
-                    "version": "0.0.1"
-                },
-                {
-                    "name": "\u601d\u601d\u6f2b\u753b",
-                    "version": "0.0.1"
-                },
+                // {
+                //     "name": "\u4f9d\u4f9d\u6f2b\u753b",
+                //     "version": "0.0.1"
+                // },
+                // {
+                //     "name": "\u601d\u601d\u6f2b\u753b",
+                //     "version": "0.0.1"
+                // },
                 {
                     "name": "43423\u6f2b\u753b\u7f51",
                     "version": "0.0.1"
